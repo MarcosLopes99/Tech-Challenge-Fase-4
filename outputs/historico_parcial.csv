@@ -1,0 +1,109 @@
+frame,tempo,atividade/emocao
+15,00:00,triste
+15,00:00,medo
+15,00:00,neutro
+45,00:01,triste
+45,00:01,triste
+45,00:01,neutro
+75,00:02,neutro
+75,00:02,triste
+75,00:02,feliz
+75,00:02,medo
+105,00:03,neutro
+105,00:03,neutro
+105,00:03,bravo
+105,00:03,medo
+195,00:06,feliz
+195,00:06,mao levantada
+195,00:06,mao no rosto
+225,00:07,feliz
+255,00:08,triste
+285,00:09,feliz
+315,00:10,feliz
+345,00:11,feliz
+555,00:18,bravo
+555,00:18,mao no rosto
+555,00:18,mao no rosto
+585,00:19,triste
+615,00:20,neutro
+615,00:20,mao levantada
+615,00:20,mao no rosto
+615,00:20,mao no rosto
+645,00:21,neutro
+675,00:22,bravo
+735,00:24,feliz
+765,00:25,neutro
+795,00:26,feliz
+825,00:27,feliz
+855,00:28,feliz
+885,00:29,feliz
+915,00:30,careta
+915,00:30,mao no rosto
+915,00:30,mao no rosto
+945,00:31,careta
+945,00:31,mao no rosto
+945,00:31,mao no rosto
+975,00:32,careta
+975,00:32,mao no rosto
+975,00:32,mao no rosto
+1005,00:33,careta
+1005,00:33,mao no rosto
+1005,00:33,mao no rosto
+1035,00:34,careta
+1035,00:34,mao no rosto
+1035,00:34,mao no rosto
+1065,00:35,careta
+1065,00:35,mao no rosto
+1065,00:35,mao no rosto
+1095,00:36,medo
+1095,00:36,mao no rosto
+1125,00:37,medo
+1125,00:37,mao no rosto
+1155,00:38,medo
+1155,00:38,mao no rosto
+1185,00:39,medo
+1185,00:39,mao no rosto
+1215,00:40,medo
+1215,00:40,mao no rosto
+1245,00:41,triste
+1245,00:41,mao no rosto
+1275,00:42,bravo
+1305,00:43,careta
+1335,00:44,careta
+1365,00:45,careta
+1395,00:46,careta
+1425,00:47,careta
+1455,00:48,neutro
+1485,00:49,feliz
+1515,00:50,feliz
+1545,00:51,feliz
+1575,00:52,feliz
+1605,00:53,neutro
+1635,00:54,neutro
+1665,00:55,neutro
+1695,00:56,neutro
+1725,00:57,medo
+1755,00:58,feliz
+1785,00:59,triste
+1815,01:00,medo
+1845,01:01,bravo
+1875,01:02,bravo
+1905,01:03,bravo
+1935,01:04,triste
+1965,01:05,triste
+2325,01:17,mao levantada
+2355,01:18,mao levantada
+2385,01:19,bravo
+2415,01:20,medo
+2595,01:26,neutro
+2625,01:27,medo
+2655,01:28,medo
+2685,01:29,medo
+2715,01:30,medo
+2745,01:31,medo
+2745,01:31,mao levantada
+2745,01:31,mao no rosto
+3195,01:46,neutro
+3255,01:48,neutro
+3255,01:48,medo
+3315,01:50,triste

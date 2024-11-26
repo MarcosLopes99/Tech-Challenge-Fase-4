@@ -1,0 +1,34 @@
+==============================
+Relatório de Análise de Vídeo
+==============================
+
+Total de frames analisados: 3326
+Número de frames contendo anomalias (caretas): 302
+
+Emoções Detectadas
++----------+--------+-------------+
+|  Emoção  | Frames | Porcentagem |
++----------+--------+-------------+
+|  Triste  |  419   |    17.9%    |
+|  Bravo   |  184   |     7.9%    |
+| Surpreso |   22   |     0.9%    |
+|   Medo   |  423   |    18.1%    |
+|  Feliz   |  535   |    22.9%    |
+|   Nojo   |   1    |     0.0%    |
+|  Neutro  |  450   |    19.3%    |
+|  Careta  |  302   |    12.9%    |
++----------+--------+-------------+
+Total de frames de emoções: 2336
+
+Contagem de Atividades
++---------------+--------+
+|   Atividade   | Frames |
++---------------+--------+
+| Mão levantada |  149   |
+|  Mão no rosto |  667   |
++---------------+--------+
+Total de frames de atividades: 816
+
+Obs.: Os Frames nas tabelas se referem a quantidade de frames que aquela emoção/atividade foi detectada.
+Logo, se mais de uma emoção (em múltiplos rostos) ou atividade foi detectada em um frame, o total de frames de emoção/atividade aumentará em correspondência a isso.
+Não seria estranho haver mais frames de emoções/atividades do que frames totais no vídeo.

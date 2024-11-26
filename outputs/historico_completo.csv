@@ -1,0 +1,3153 @@
+frame,tempo,atividade/emocao
+1,00:00,medo
+1,00:00,triste
+1,00:00,neutro
+2,00:00,medo
+2,00:00,triste
+2,00:00,neutro
+3,00:00,triste
+3,00:00,medo
+3,00:00,neutro
+4,00:00,triste
+4,00:00,medo
+4,00:00,feliz
+5,00:00,triste
+5,00:00,triste
+5,00:00,feliz
+6,00:00,triste
+6,00:00,medo
+6,00:00,feliz
+7,00:00,triste
+7,00:00,medo
+7,00:00,feliz
+7,00:00,medo
+8,00:00,triste
+8,00:00,medo
+8,00:00,feliz
+8,00:00,medo
+9,00:00,triste
+9,00:00,triste
+9,00:00,feliz
+9,00:00,medo
+10,00:00,triste
+10,00:00,medo
+10,00:00,neutro
+11,00:00,triste
+11,00:00,medo
+11,00:00,neutro
+11,00:00,medo
+12,00:00,triste
+12,00:00,neutro
+12,00:00,neutro
+12,00:00,medo
+13,00:00,triste
+13,00:00,medo
+13,00:00,neutro
+14,00:00,triste
+14,00:00,neutro
+14,00:00,neutro
+14,00:00,medo
+15,00:00,triste
+15,00:00,medo
+15,00:00,neutro
+16,00:00,neutro
+16,00:00,triste
+16,00:00,neutro
+16,00:00,medo
+17,00:00,neutro
+17,00:00,triste
+17,00:00,neutro
+18,00:00,triste
+18,00:00,triste
+18,00:00,neutro
+19,00:00,triste
+19,00:00,triste
+19,00:00,neutro
+20,00:00,triste
+20,00:00,triste
+20,00:00,neutro
+21,00:00,triste
+21,00:00,triste
+21,00:00,feliz
+21,00:00,medo
+22,00:00,triste
+22,00:00,triste
+22,00:00,triste
+22,00:00,medo
+23,00:00,triste
+23,00:00,triste
+23,00:00,triste
+23,00:00,medo
+24,00:00,medo
+24,00:00,triste
+24,00:00,feliz
+25,00:00,triste
+25,00:00,triste
+25,00:00,feliz
+26,00:00,triste
+26,00:00,triste
+26,00:00,feliz
+27,00:00,triste
+27,00:00,triste
+27,00:00,feliz
+27,00:00,medo
+28,00:00,triste
+28,00:00,neutro
+28,00:00,feliz
+28,00:00,medo
+29,00:00,triste
+29,00:00,neutro
+29,00:00,feliz
+29,00:00,medo
+30,00:01,triste
+30,00:01,neutro
+30,00:01,neutro
+30,00:01,medo
+31,00:01,triste
+31,00:01,neutro
+31,00:01,neutro
+31,00:01,medo
+32,00:01,triste
+32,00:01,neutro
+32,00:01,neutro
+32,00:01,medo
+33,00:01,triste
+33,00:01,triste
+33,00:01,neutro
+33,00:01,medo
+34,00:01,triste
+34,00:01,triste
+34,00:01,feliz
+34,00:01,medo
+35,00:01,triste
+35,00:01,triste
+35,00:01,feliz
+35,00:01,medo
+36,00:01,triste
+36,00:01,medo
+36,00:01,feliz
+36,00:01,medo
+37,00:01,triste
+37,00:01,triste
+37,00:01,feliz
+37,00:01,medo
+38,00:01,triste
+38,00:01,triste
+38,00:01,neutro
+38,00:01,medo
+39,00:01,triste
+39,00:01,triste
+39,00:01,neutro
+39,00:01,medo
+40,00:01,triste
+40,00:01,triste
+40,00:01,neutro
+40,00:01,medo
+41,00:01,triste
+41,00:01,triste
+41,00:01,neutro
+41,00:01,triste
+42,00:01,triste
+42,00:01,neutro
+42,00:01,neutro
+42,00:01,medo
+43,00:01,triste
+43,00:01,neutro
+43,00:01,neutro
+44,00:01,triste
+44,00:01,neutro
+44,00:01,neutro
+44,00:01,triste
+45,00:01,triste
+45,00:01,triste
+45,00:01,neutro
+46,00:01,triste
+46,00:01,triste
+46,00:01,feliz
+47,00:01,triste
+47,00:01,triste
+47,00:01,feliz
+48,00:01,triste
+48,00:01,triste
+48,00:01,feliz
+49,00:01,triste
+49,00:01,triste
+49,00:01,neutro
+50,00:01,triste
+50,00:01,triste
+50,00:01,neutro
+50,00:01,medo
+51,00:01,triste
+51,00:01,triste
+51,00:01,neutro
+51,00:01,medo
+52,00:01,triste
+52,00:01,neutro
+52,00:01,feliz
+52,00:01,medo
+53,00:01,neutro
+53,00:01,triste
+53,00:01,feliz
+53,00:01,medo
+54,00:01,neutro
+54,00:01,triste
+54,00:01,neutro
+54,00:01,medo
+55,00:01,triste
+55,00:01,neutro
+55,00:01,neutro
+55,00:01,medo
+56,00:01,triste
+56,00:01,neutro
+56,00:01,neutro
+56,00:01,medo
+57,00:01,triste
+57,00:01,triste
+57,00:01,neutro
+57,00:01,medo
+58,00:01,triste
+58,00:01,medo
+58,00:01,neutro
+58,00:01,medo
+59,00:01,triste
+59,00:01,medo
+59,00:01,feliz
+59,00:01,medo
+60,00:02,triste
+60,00:02,medo
+60,00:02,neutro
+60,00:02,medo
+61,00:02,triste
+61,00:02,medo
+61,00:02,neutro
+61,00:02,triste
+62,00:02,triste
+62,00:02,medo
+62,00:02,feliz
+62,00:02,triste
+63,00:02,medo
+63,00:02,triste
+63,00:02,feliz
+63,00:02,triste
+64,00:02,neutro
+64,00:02,triste
+64,00:02,neutro
+65,00:02,triste
+65,00:02,triste
+65,00:02,feliz
+66,00:02,triste
+66,00:02,triste
+66,00:02,feliz
+67,00:02,triste
+67,00:02,triste
+67,00:02,feliz
+68,00:02,triste
+68,00:02,triste
+68,00:02,feliz
+69,00:02,triste
+69,00:02,triste
+69,00:02,neutro
+70,00:02,triste
+70,00:02,triste
+70,00:02,feliz
+71,00:02,triste
+71,00:02,triste
+71,00:02,feliz
+72,00:02,neutro
+72,00:02,neutro
+72,00:02,triste
+72,00:02,medo
+73,00:02,neutro
+73,00:02,triste
+73,00:02,feliz
+73,00:02,medo
+74,00:02,neutro
+74,00:02,triste
+74,00:02,feliz
+74,00:02,medo
+75,00:02,neutro
+75,00:02,triste
+75,00:02,feliz
+75,00:02,medo
+76,00:02,triste
+76,00:02,triste
+76,00:02,feliz
+76,00:02,medo
+77,00:02,triste
+77,00:02,triste
+77,00:02,neutro
+77,00:02,medo
+78,00:02,triste
+78,00:02,triste
+78,00:02,neutro
+78,00:02,medo
+79,00:02,triste
+79,00:02,triste
+79,00:02,feliz
+79,00:02,medo
+80,00:02,triste
+80,00:02,triste
+80,00:02,feliz
+80,00:02,medo
+81,00:02,triste
+81,00:02,triste
+81,00:02,neutro
+81,00:02,medo
+82,00:02,triste
+82,00:02,feliz
+82,00:02,triste
+82,00:02,medo
+83,00:02,triste
+83,00:02,feliz
+83,00:02,triste
+83,00:02,medo
+84,00:02,triste
+84,00:02,triste
+84,00:02,neutro
+84,00:02,medo
+85,00:02,triste
+85,00:02,triste
+85,00:02,feliz
+85,00:02,triste
+86,00:02,triste
+86,00:02,triste
+86,00:02,neutro
+86,00:02,triste
+87,00:02,triste
+87,00:02,triste
+87,00:02,neutro
+88,00:02,triste
+88,00:02,triste
+88,00:02,neutro
+89,00:02,triste
+89,00:02,triste
+89,00:02,feliz
+89,00:02,mao no rosto
+90,00:03,neutro
+90,00:03,triste
+90,00:03,feliz
+91,00:03,neutro
+91,00:03,triste
+91,00:03,neutro
+92,00:03,neutro
+92,00:03,triste
+92,00:03,neutro
+93,00:03,triste
+93,00:03,triste
+93,00:03,neutro
+94,00:03,neutro
+94,00:03,neutro
+94,00:03,triste
+94,00:03,triste
+95,00:03,neutro
+95,00:03,neutro
+95,00:03,triste
+95,00:03,triste
+96,00:03,neutro
+96,00:03,triste
+96,00:03,neutro
+96,00:03,triste
+96,00:03,mao no rosto
+97,00:03,neutro
+97,00:03,triste
+97,00:03,neutro
+97,00:03,medo
+98,00:03,neutro
+98,00:03,neutro
+98,00:03,triste
+98,00:03,medo
+99,00:03,triste
+99,00:03,triste
+99,00:03,feliz
+99,00:03,medo
+100,00:03,neutro
+100,00:03,triste
+100,00:03,neutro
+100,00:03,triste
+101,00:03,neutro
+101,00:03,triste
+101,00:03,neutro
+101,00:03,medo
+102,00:03,neutro
+102,00:03,triste
+102,00:03,neutro
+102,00:03,triste
+103,00:03,neutro
+103,00:03,bravo
+103,00:03,neutro
+103,00:03,medo
+104,00:03,neutro
+104,00:03,neutro
+104,00:03,bravo
+104,00:03,medo
+105,00:03,neutro
+105,00:03,neutro
+105,00:03,bravo
+105,00:03,medo
+106,00:03,neutro
+106,00:03,neutro
+106,00:03,bravo
+106,00:03,triste
+107,00:03,neutro
+107,00:03,neutro
+107,00:03,bravo
+107,00:03,triste
+108,00:03,neutro
+108,00:03,bravo
+108,00:03,neutro
+108,00:03,triste
+109,00:03,feliz
+109,00:03,neutro
+109,00:03,bravo
+109,00:03,triste
+110,00:03,feliz
+110,00:03,neutro
+110,00:03,bravo
+110,00:03,triste
+111,00:03,feliz
+111,00:03,feliz
+111,00:03,bravo
+112,00:03,neutro
+112,00:03,feliz
+112,00:03,bravo
+113,00:03,neutro
+113,00:03,bravo
+113,00:03,feliz
+114,00:03,bravo
+114,00:03,neutro
+114,00:03,feliz
+115,00:03,bravo
+115,00:03,neutro
+115,00:03,neutro
+116,00:03,bravo
+116,00:03,neutro
+116,00:03,feliz
+117,00:03,bravo
+117,00:03,neutro
+117,00:03,neutro
+118,00:03,bravo
+118,00:03,neutro
+118,00:03,neutro
+118,00:03,triste
+119,00:03,bravo
+119,00:03,neutro
+119,00:03,neutro
+120,00:04,bravo
+120,00:04,neutro
+120,00:04,triste
+121,00:04,bravo
+121,00:04,triste
+122,00:04,bravo
+122,00:04,triste
+123,00:04,bravo
+123,00:04,triste
+123,00:04,medo
+124,00:04,bravo
+125,00:04,bravo
+126,00:04,triste
+127,00:04,bravo
+128,00:04,bravo
+139,00:04,neutro
+140,00:04,neutro
+181,00:06,feliz
+182,00:06,feliz
+183,00:06,feliz
+184,00:06,feliz
+185,00:06,feliz
+186,00:06,feliz
+187,00:06,feliz
+188,00:06,feliz
+188,00:06,mao no rosto
+189,00:06,feliz
+189,00:06,mao no rosto
+190,00:06,feliz
+190,00:06,mao no rosto
+191,00:06,feliz
+191,00:06,mao levantada
+191,00:06,mao no rosto
+192,00:06,feliz
+192,00:06,mao levantada
+192,00:06,mao no rosto
+193,00:06,feliz
+193,00:06,mao levantada
+193,00:06,mao no rosto
+194,00:06,feliz
+194,00:06,mao levantada
+194,00:06,mao no rosto
+195,00:06,feliz
+195,00:06,mao levantada
+195,00:06,mao no rosto
+196,00:06,feliz
+196,00:06,mao levantada
+197,00:06,feliz
+197,00:06,mao levantada
+198,00:06,feliz
+198,00:06,mao levantada
+199,00:06,feliz
+199,00:06,mao levantada
+200,00:06,feliz
+200,00:06,mao levantada
+201,00:06,feliz
+201,00:06,mao levantada
+202,00:06,feliz
+202,00:06,mao levantada
+203,00:06,feliz
+203,00:06,mao levantada
+204,00:06,feliz
+204,00:06,mao levantada
+205,00:06,feliz
+205,00:06,mao levantada
+206,00:06,feliz
+206,00:06,mao levantada
+207,00:06,feliz
+207,00:06,mao levantada
+208,00:06,feliz
+208,00:06,mao levantada
+209,00:06,feliz
+209,00:06,mao levantada
+210,00:07,feliz
+210,00:07,mao levantada
+211,00:07,feliz
+211,00:07,mao levantada
+212,00:07,feliz
+212,00:07,mao levantada
+213,00:07,feliz
+213,00:07,mao levantada
+213,00:07,mao no rosto
+214,00:07,feliz
+214,00:07,mao levantada
+215,00:07,feliz
+215,00:07,mao levantada
+216,00:07,feliz
+216,00:07,mao levantada
+217,00:07,feliz
+217,00:07,mao levantada
+217,00:07,mao no rosto
+218,00:07,feliz
+218,00:07,mao levantada
+218,00:07,mao no rosto
+219,00:07,feliz
+219,00:07,mao no rosto
+220,00:07,feliz
+220,00:07,mao no rosto
+221,00:07,feliz
+222,00:07,feliz
+223,00:07,feliz
+224,00:07,feliz
+225,00:07,feliz
+226,00:07,feliz
+227,00:07,feliz
+228,00:07,feliz
+229,00:07,feliz
+230,00:07,feliz
+231,00:07,feliz
+232,00:07,feliz
+233,00:07,feliz
+234,00:07,feliz
+235,00:07,feliz
+236,00:07,feliz
+237,00:07,feliz
+238,00:07,feliz
+239,00:07,feliz
+240,00:08,feliz
+241,00:08,feliz
+242,00:08,feliz
+243,00:08,feliz
+244,00:08,feliz
+245,00:08,feliz
+246,00:08,feliz
+247,00:08,feliz
+248,00:08,feliz
+249,00:08,feliz
+250,00:08,neutro
+251,00:08,neutro
+252,00:08,medo
+253,00:08,neutro
+254,00:08,neutro
+255,00:08,triste
+256,00:08,feliz
+257,00:08,feliz
+258,00:08,feliz
+259,00:08,feliz
+260,00:08,feliz
+261,00:08,feliz
+262,00:08,feliz
+263,00:08,feliz
+264,00:08,feliz
+265,00:08,feliz
+266,00:08,feliz
+267,00:08,feliz
+268,00:08,feliz
+269,00:08,feliz
+270,00:09,feliz
+271,00:09,feliz
+272,00:09,feliz
+273,00:09,feliz
+274,00:09,feliz
+275,00:09,feliz
+276,00:09,feliz
+277,00:09,feliz
+278,00:09,feliz
+279,00:09,feliz
+280,00:09,feliz
+281,00:09,feliz
+282,00:09,feliz
+283,00:09,feliz
+284,00:09,feliz
+285,00:09,feliz
+286,00:09,feliz
+287,00:09,feliz
+288,00:09,feliz
+289,00:09,feliz
+290,00:09,feliz
+291,00:09,feliz
+292,00:09,feliz
+293,00:09,feliz
+294,00:09,feliz
+295,00:09,feliz
+296,00:09,feliz
+297,00:09,feliz
+298,00:09,feliz
+299,00:09,feliz
+300,00:10,feliz
+301,00:10,feliz
+302,00:10,feliz
+303,00:10,feliz
+304,00:10,feliz
+305,00:10,feliz
+306,00:10,feliz
+307,00:10,feliz
+308,00:10,feliz
+309,00:10,feliz
+310,00:10,feliz
+311,00:10,feliz
+312,00:10,feliz
+313,00:10,feliz
+314,00:10,feliz
+315,00:10,feliz
+316,00:10,feliz
+317,00:10,feliz
+318,00:10,feliz
+319,00:10,feliz
+320,00:10,feliz
+321,00:10,feliz
+322,00:10,feliz
+323,00:10,feliz
+324,00:10,feliz
+325,00:10,feliz
+326,00:10,feliz
+327,00:10,feliz
+328,00:10,feliz
+329,00:10,feliz
+330,00:11,feliz
+331,00:11,feliz
+332,00:11,feliz
+333,00:11,feliz
+334,00:11,feliz
+335,00:11,feliz
+336,00:11,feliz
+337,00:11,feliz
+338,00:11,feliz
+339,00:11,feliz
+340,00:11,feliz
+341,00:11,feliz
+342,00:11,feliz
+343,00:11,feliz
+344,00:11,feliz
+345,00:11,feliz
+346,00:11,feliz
+347,00:11,feliz
+348,00:11,feliz
+349,00:11,feliz
+350,00:11,feliz
+351,00:11,feliz
+352,00:11,feliz
+353,00:11,feliz
+354,00:11,feliz
+355,00:11,feliz
+356,00:11,feliz
+357,00:11,feliz
+358,00:11,feliz
+359,00:11,feliz
+360,00:12,feliz
+403,00:13,mao no rosto
+548,00:18,mao no rosto
+548,00:18,mao no rosto
+551,00:18,mao no rosto
+552,00:18,mao no rosto
+553,00:18,mao no rosto
+553,00:18,mao no rosto
+554,00:18,mao no rosto
+554,00:18,mao no rosto
+555,00:18,bravo
+555,00:18,mao no rosto
+555,00:18,mao no rosto
+556,00:18,surpreso
+556,00:18,mao no rosto
+556,00:18,mao no rosto
+557,00:18,surpreso
+558,00:18,surpreso
+559,00:18,bravo
+560,00:18,bravo
+561,00:18,bravo
+562,00:18,medo
+563,00:18,medo
+564,00:18,triste
+565,00:18,triste
+566,00:18,nojo
+567,00:18,triste
+568,00:18,neutro
+569,00:18,neutro
+570,00:19,neutro
+571,00:19,feliz
+572,00:19,bravo
+573,00:19,bravo
+574,00:19,bravo
+575,00:19,bravo
+576,00:19,medo
+577,00:19,neutro
+578,00:19,neutro
+578,00:19,mao levantada
+579,00:19,neutro
+579,00:19,mao levantada
+580,00:19,feliz
+580,00:19,mao levantada
+581,00:19,neutro
+582,00:19,feliz
+583,00:19,triste
+584,00:19,triste
+585,00:19,triste
+586,00:19,triste
+596,00:19,mao levantada
+596,00:19,mao no rosto
+597,00:19,mao levantada
+597,00:19,mao no rosto
+597,00:19,mao no rosto
+603,00:20,mao levantada
+603,00:20,mao no rosto
+605,00:20,mao levantada
+607,00:20,mao levantada
+609,00:20,triste
+610,00:20,neutro
+611,00:20,neutro
+612,00:20,neutro
+612,00:20,mao levantada
+612,00:20,mao no rosto
+613,00:20,neutro
+614,00:20,neutro
+614,00:20,mao levantada
+615,00:20,neutro
+615,00:20,mao levantada
+615,00:20,mao no rosto
+615,00:20,mao no rosto
+616,00:20,neutro
+616,00:20,mao levantada
+616,00:20,mao no rosto
+617,00:20,neutro
+618,00:20,neutro
+618,00:20,mao no rosto
+619,00:20,neutro
+619,00:20,mao no rosto
+620,00:20,neutro
+620,00:20,mao no rosto
+621,00:20,triste
+622,00:20,neutro
+623,00:20,neutro
+624,00:20,medo
+625,00:20,neutro
+626,00:20,neutro
+627,00:20,neutro
+628,00:20,triste
+629,00:20,neutro
+630,00:21,neutro
+631,00:21,neutro
+632,00:21,neutro
+633,00:21,neutro
+634,00:21,neutro
+635,00:21,neutro
+636,00:21,neutro
+637,00:21,neutro
+638,00:21,neutro
+639,00:21,neutro
+640,00:21,medo
+641,00:21,medo
+642,00:21,neutro
+643,00:21,neutro
+644,00:21,neutro
+645,00:21,neutro
+646,00:21,triste
+647,00:21,triste
+648,00:21,triste
+649,00:21,neutro
+650,00:21,triste
+651,00:21,triste
+652,00:21,triste
+653,00:21,triste
+654,00:21,triste
+655,00:21,triste
+656,00:21,triste
+657,00:21,feliz
+658,00:21,triste
+659,00:21,triste
+660,00:22,triste
+661,00:22,triste
+662,00:22,triste
+663,00:22,medo
+664,00:22,bravo
+665,00:22,bravo
+666,00:22,medo
+667,00:22,feliz
+668,00:22,bravo
+669,00:22,bravo
+670,00:22,bravo
+671,00:22,bravo
+672,00:22,bravo
+673,00:22,triste
+674,00:22,triste
+675,00:22,bravo
+676,00:22,triste
+677,00:22,medo
+678,00:22,medo
+679,00:22,bravo
+679,00:22,mao no rosto
+679,00:22,mao no rosto
+680,00:22,feliz
+682,00:22,feliz
+682,00:22,mao levantada
+684,00:22,mao levantada
+684,00:22,mao no rosto
+684,00:22,mao no rosto
+686,00:22,mao levantada
+686,00:22,mao no rosto
+689,00:22,mao levantada
+689,00:22,mao no rosto
+690,00:23,mao levantada
+690,00:23,mao no rosto
+690,00:23,mao no rosto
+691,00:23,medo
+691,00:23,mao levantada
+691,00:23,mao no rosto
+694,00:23,mao levantada
+695,00:23,mao levantada
+696,00:23,mao levantada
+696,00:23,mao no rosto
+696,00:23,mao no rosto
+698,00:23,mao levantada
+699,00:23,mao levantada
+699,00:23,mao no rosto
+701,00:23,mao levantada
+701,00:23,mao no rosto
+702,00:23,mao levantada
+702,00:23,mao no rosto
+702,00:23,mao no rosto
+707,00:23,mao no rosto
+707,00:23,mao no rosto
+708,00:23,medo
+708,00:23,mao no rosto
+708,00:23,mao no rosto
+709,00:23,medo
+709,00:23,mao no rosto
+710,00:23,triste
+711,00:23,triste
+711,00:23,mao no rosto
+711,00:23,mao no rosto
+712,00:23,neutro
+712,00:23,mao no rosto
+713,00:23,triste
+714,00:23,bravo
+715,00:23,bravo
+715,00:23,mao no rosto
+716,00:23,neutro
+717,00:23,medo
+718,00:23,neutro
+719,00:23,triste
+720,00:24,triste
+721,00:24,feliz
+722,00:24,feliz
+723,00:24,feliz
+724,00:24,feliz
+725,00:24,feliz
+726,00:24,feliz
+727,00:24,feliz
+728,00:24,feliz
+729,00:24,feliz
+730,00:24,feliz
+731,00:24,feliz
+732,00:24,feliz
+733,00:24,feliz
+734,00:24,feliz
+735,00:24,feliz
+736,00:24,feliz
+737,00:24,feliz
+738,00:24,feliz
+739,00:24,feliz
+740,00:24,feliz
+741,00:24,feliz
+742,00:24,feliz
+743,00:24,feliz
+744,00:24,feliz
+745,00:24,feliz
+746,00:24,feliz
+747,00:24,neutro
+748,00:24,neutro
+749,00:24,neutro
+750,00:25,feliz
+751,00:25,neutro
+752,00:25,neutro
+753,00:25,neutro
+754,00:25,neutro
+755,00:25,neutro
+756,00:25,neutro
+757,00:25,neutro
+758,00:25,neutro
+759,00:25,neutro
+760,00:25,neutro
+761,00:25,neutro
+762,00:25,neutro
+763,00:25,neutro
+764,00:25,neutro
+765,00:25,neutro
+766,00:25,feliz
+767,00:25,feliz
+768,00:25,feliz
+769,00:25,feliz
+770,00:25,feliz
+771,00:25,feliz
+772,00:25,feliz
+773,00:25,feliz
+774,00:25,feliz
+775,00:25,feliz
+776,00:25,feliz
+777,00:25,feliz
+778,00:25,feliz
+779,00:25,feliz
+780,00:26,feliz
+781,00:26,feliz
+782,00:26,feliz
+783,00:26,feliz
+784,00:26,feliz
+785,00:26,feliz
+786,00:26,feliz
+787,00:26,feliz
+788,00:26,feliz
+789,00:26,feliz
+790,00:26,feliz
+791,00:26,feliz
+792,00:26,feliz
+793,00:26,feliz
+794,00:26,feliz
+795,00:26,feliz
+796,00:26,feliz
+797,00:26,feliz
+798,00:26,feliz
+799,00:26,feliz
+800,00:26,feliz
+801,00:26,feliz
+802,00:26,feliz
+803,00:26,feliz
+804,00:26,feliz
+805,00:26,feliz
+806,00:26,feliz
+807,00:26,feliz
+808,00:26,feliz
+809,00:26,feliz
+810,00:27,feliz
+811,00:27,feliz
+812,00:27,feliz
+813,00:27,feliz
+814,00:27,feliz
+815,00:27,feliz
+816,00:27,feliz
+817,00:27,feliz
+818,00:27,feliz
+819,00:27,feliz
+820,00:27,feliz
+821,00:27,feliz
+822,00:27,feliz
+823,00:27,feliz
+824,00:27,feliz
+825,00:27,feliz
+826,00:27,feliz
+827,00:27,feliz
+828,00:27,feliz
+829,00:27,feliz
+830,00:27,feliz
+831,00:27,feliz
+832,00:27,feliz
+833,00:27,feliz
+834,00:27,feliz
+835,00:27,feliz
+836,00:27,feliz
+837,00:27,neutro
+838,00:27,feliz
+839,00:27,feliz
+840,00:28,feliz
+841,00:28,feliz
+842,00:28,neutro
+843,00:28,neutro
+844,00:28,neutro
+845,00:28,feliz
+846,00:28,feliz
+847,00:28,feliz
+848,00:28,feliz
+849,00:28,feliz
+850,00:28,feliz
+851,00:28,feliz
+852,00:28,feliz
+853,00:28,feliz
+854,00:28,feliz
+855,00:28,feliz
+856,00:28,feliz
+857,00:28,feliz
+858,00:28,feliz
+859,00:28,feliz
+860,00:28,feliz
+861,00:28,feliz
+862,00:28,feliz
+863,00:28,feliz
+864,00:28,feliz
+865,00:28,feliz
+866,00:28,feliz
+867,00:28,feliz
+868,00:28,feliz
+869,00:28,feliz
+870,00:29,feliz
+871,00:29,feliz
+872,00:29,feliz
+873,00:29,feliz
+874,00:29,feliz
+875,00:29,feliz
+876,00:29,feliz
+877,00:29,feliz
+878,00:29,feliz
+879,00:29,feliz
+880,00:29,feliz
+881,00:29,feliz
+882,00:29,feliz
+883,00:29,feliz
+884,00:29,feliz
+885,00:29,feliz
+886,00:29,feliz
+887,00:29,feliz
+888,00:29,feliz
+889,00:29,feliz
+890,00:29,feliz
+891,00:29,feliz
+892,00:29,feliz
+893,00:29,feliz
+894,00:29,feliz
+895,00:29,feliz
+896,00:29,feliz
+897,00:29,feliz
+898,00:29,feliz
+899,00:29,feliz
+900,00:30,feliz
+901,00:30,careta
+901,00:30,mao no rosto
+901,00:30,mao no rosto
+902,00:30,careta
+902,00:30,mao no rosto
+902,00:30,mao no rosto
+903,00:30,careta
+903,00:30,mao no rosto
+903,00:30,mao no rosto
+904,00:30,careta
+904,00:30,mao no rosto
+904,00:30,mao no rosto
+905,00:30,careta
+905,00:30,mao no rosto
+905,00:30,mao no rosto
+906,00:30,careta
+906,00:30,mao no rosto
+906,00:30,mao no rosto
+907,00:30,careta
+907,00:30,mao no rosto
+907,00:30,mao no rosto
+908,00:30,careta
+908,00:30,mao no rosto
+908,00:30,mao no rosto
+909,00:30,careta
+909,00:30,mao no rosto
+909,00:30,mao no rosto
+910,00:30,careta
+910,00:30,mao no rosto
+910,00:30,mao no rosto
+911,00:30,careta
+911,00:30,mao no rosto
+911,00:30,mao no rosto
+912,00:30,careta
+912,00:30,mao no rosto
+912,00:30,mao no rosto
+913,00:30,careta
+913,00:30,mao no rosto
+913,00:30,mao no rosto
+914,00:30,careta
+914,00:30,mao no rosto
+914,00:30,mao no rosto
+915,00:30,careta
+915,00:30,mao no rosto
+915,00:30,mao no rosto
+916,00:30,careta
+916,00:30,mao no rosto
+916,00:30,mao no rosto
+917,00:30,careta
+917,00:30,mao no rosto
+917,00:30,mao no rosto
+918,00:30,careta
+918,00:30,mao no rosto
+918,00:30,mao no rosto
+919,00:30,careta
+919,00:30,mao no rosto
+919,00:30,mao no rosto
+920,00:30,careta
+920,00:30,mao no rosto
+920,00:30,mao no rosto
+921,00:30,careta
+921,00:30,mao no rosto
+921,00:30,mao no rosto
+922,00:30,careta
+922,00:30,mao no rosto
+922,00:30,mao no rosto
+923,00:30,careta
+923,00:30,mao no rosto
+923,00:30,mao no rosto
+924,00:30,careta
+924,00:30,mao no rosto
+924,00:30,mao no rosto
+925,00:30,careta
+925,00:30,mao no rosto
+925,00:30,mao no rosto
+926,00:30,careta
+926,00:30,mao no rosto
+926,00:30,mao no rosto
+927,00:30,careta
+927,00:30,mao no rosto
+927,00:30,mao no rosto
+928,00:30,careta
+928,00:30,mao no rosto
+928,00:30,mao no rosto
+929,00:30,careta
+929,00:30,mao no rosto
+929,00:30,mao no rosto
+930,00:31,careta
+930,00:31,mao no rosto
+930,00:31,mao no rosto
+931,00:31,careta
+931,00:31,mao no rosto
+931,00:31,mao no rosto
+932,00:31,careta
+932,00:31,mao no rosto
+932,00:31,mao no rosto
+933,00:31,careta
+933,00:31,mao no rosto
+933,00:31,mao no rosto
+934,00:31,careta
+934,00:31,mao no rosto
+934,00:31,mao no rosto
+935,00:31,careta
+935,00:31,mao no rosto
+935,00:31,mao no rosto
+936,00:31,careta
+936,00:31,mao no rosto
+936,00:31,mao no rosto
+937,00:31,careta
+937,00:31,mao no rosto
+937,00:31,mao no rosto
+938,00:31,careta
+938,00:31,mao no rosto
+938,00:31,mao no rosto
+939,00:31,careta
+939,00:31,mao no rosto
+939,00:31,mao no rosto
+940,00:31,careta
+940,00:31,mao no rosto
+940,00:31,mao no rosto
+941,00:31,careta
+941,00:31,mao no rosto
+941,00:31,mao no rosto
+942,00:31,careta
+942,00:31,mao no rosto
+942,00:31,mao no rosto
+943,00:31,careta
+943,00:31,mao no rosto
+943,00:31,mao no rosto
+944,00:31,careta
+944,00:31,mao no rosto
+944,00:31,mao no rosto
+945,00:31,careta
+945,00:31,mao no rosto
+945,00:31,mao no rosto
+946,00:31,careta
+946,00:31,mao no rosto
+946,00:31,mao no rosto
+947,00:31,careta
+947,00:31,mao no rosto
+947,00:31,mao no rosto
+948,00:31,careta
+948,00:31,mao no rosto
+948,00:31,mao no rosto
+949,00:31,careta
+949,00:31,mao no rosto
+949,00:31,mao no rosto
+950,00:31,careta
+950,00:31,mao no rosto
+950,00:31,mao no rosto
+951,00:31,careta
+951,00:31,mao no rosto
+951,00:31,mao no rosto
+952,00:31,careta
+952,00:31,mao no rosto
+952,00:31,mao no rosto
+953,00:31,careta
+953,00:31,mao no rosto
+953,00:31,mao no rosto
+954,00:31,careta
+954,00:31,mao no rosto
+954,00:31,mao no rosto
+955,00:31,careta
+955,00:31,mao no rosto
+955,00:31,mao no rosto
+956,00:31,careta
+956,00:31,mao no rosto
+956,00:31,mao no rosto
+957,00:31,careta
+957,00:31,mao no rosto
+957,00:31,mao no rosto
+958,00:31,careta
+958,00:31,mao no rosto
+958,00:31,mao no rosto
+959,00:31,careta
+959,00:31,mao no rosto
+959,00:31,mao no rosto
+960,00:32,careta
+960,00:32,mao no rosto
+960,00:32,mao no rosto
+961,00:32,careta
+961,00:32,mao no rosto
+961,00:32,mao no rosto
+962,00:32,careta
+962,00:32,mao no rosto
+962,00:32,mao no rosto
+963,00:32,careta
+963,00:32,mao no rosto
+963,00:32,mao no rosto
+964,00:32,careta
+964,00:32,mao no rosto
+964,00:32,mao no rosto
+965,00:32,careta
+965,00:32,mao no rosto
+965,00:32,mao no rosto
+966,00:32,careta
+966,00:32,mao no rosto
+966,00:32,mao no rosto
+967,00:32,careta
+967,00:32,mao no rosto
+967,00:32,mao no rosto
+968,00:32,careta
+968,00:32,mao no rosto
+968,00:32,mao no rosto
+969,00:32,careta
+969,00:32,mao no rosto
+969,00:32,mao no rosto
+970,00:32,careta
+970,00:32,mao no rosto
+970,00:32,mao no rosto
+971,00:32,careta
+971,00:32,mao no rosto
+971,00:32,mao no rosto
+972,00:32,careta
+972,00:32,mao no rosto
+972,00:32,mao no rosto
+973,00:32,careta
+973,00:32,mao no rosto
+973,00:32,mao no rosto
+974,00:32,careta
+974,00:32,mao no rosto
+974,00:32,mao no rosto
+975,00:32,careta
+975,00:32,mao no rosto
+975,00:32,mao no rosto
+976,00:32,careta
+976,00:32,mao no rosto
+976,00:32,mao no rosto
+977,00:32,careta
+977,00:32,mao no rosto
+977,00:32,mao no rosto
+978,00:32,careta
+978,00:32,mao no rosto
+978,00:32,mao no rosto
+979,00:32,careta
+979,00:32,mao no rosto
+979,00:32,mao no rosto
+980,00:32,careta
+980,00:32,mao no rosto
+980,00:32,mao no rosto
+981,00:32,careta
+981,00:32,mao no rosto
+981,00:32,mao no rosto
+982,00:32,careta
+982,00:32,mao no rosto
+982,00:32,mao no rosto
+983,00:32,careta
+983,00:32,mao no rosto
+983,00:32,mao no rosto
+984,00:32,careta
+984,00:32,mao no rosto
+984,00:32,mao no rosto
+985,00:32,careta
+985,00:32,mao no rosto
+985,00:32,mao no rosto
+986,00:32,careta
+986,00:32,mao no rosto
+986,00:32,mao no rosto
+987,00:32,careta
+987,00:32,mao no rosto
+987,00:32,mao no rosto
+988,00:32,careta
+988,00:32,mao no rosto
+988,00:32,mao no rosto
+989,00:32,careta
+989,00:32,mao no rosto
+989,00:32,mao no rosto
+990,00:33,careta
+990,00:33,mao no rosto
+990,00:33,mao no rosto
+991,00:33,careta
+991,00:33,mao no rosto
+991,00:33,mao no rosto
+992,00:33,careta
+992,00:33,mao no rosto
+992,00:33,mao no rosto
+993,00:33,careta
+993,00:33,mao no rosto
+993,00:33,mao no rosto
+994,00:33,careta
+994,00:33,mao no rosto
+994,00:33,mao no rosto
+995,00:33,careta
+995,00:33,mao no rosto
+995,00:33,mao no rosto
+996,00:33,careta
+996,00:33,mao no rosto
+996,00:33,mao no rosto
+997,00:33,careta
+997,00:33,mao no rosto
+997,00:33,mao no rosto
+998,00:33,careta
+998,00:33,mao no rosto
+998,00:33,mao no rosto
+999,00:33,careta
+999,00:33,mao no rosto
+999,00:33,mao no rosto
+1000,00:33,careta
+1000,00:33,mao no rosto
+1000,00:33,mao no rosto
+1001,00:33,careta
+1001,00:33,mao no rosto
+1001,00:33,mao no rosto
+1002,00:33,careta
+1002,00:33,mao no rosto
+1002,00:33,mao no rosto
+1003,00:33,careta
+1003,00:33,mao no rosto
+1003,00:33,mao no rosto
+1004,00:33,careta
+1004,00:33,mao no rosto
+1004,00:33,mao no rosto
+1005,00:33,careta
+1005,00:33,mao no rosto
+1005,00:33,mao no rosto
+1006,00:33,careta
+1006,00:33,mao no rosto
+1006,00:33,mao no rosto
+1007,00:33,careta
+1007,00:33,mao no rosto
+1007,00:33,mao no rosto
+1008,00:33,careta
+1008,00:33,mao no rosto
+1008,00:33,mao no rosto
+1009,00:33,careta
+1009,00:33,mao no rosto
+1009,00:33,mao no rosto
+1010,00:33,careta
+1010,00:33,mao no rosto
+1010,00:33,mao no rosto
+1011,00:33,careta
+1011,00:33,mao no rosto
+1011,00:33,mao no rosto
+1012,00:33,careta
+1012,00:33,mao no rosto
+1012,00:33,mao no rosto
+1013,00:33,careta
+1013,00:33,mao no rosto
+1013,00:33,mao no rosto
+1014,00:33,careta
+1014,00:33,mao no rosto
+1014,00:33,mao no rosto
+1015,00:33,careta
+1015,00:33,mao no rosto
+1015,00:33,mao no rosto
+1016,00:33,careta
+1016,00:33,mao no rosto
+1016,00:33,mao no rosto
+1017,00:33,careta
+1017,00:33,mao no rosto
+1017,00:33,mao no rosto
+1018,00:33,careta
+1018,00:33,mao no rosto
+1018,00:33,mao no rosto
+1019,00:33,careta
+1019,00:33,mao no rosto
+1019,00:33,mao no rosto
+1020,00:34,careta
+1020,00:34,mao no rosto
+1020,00:34,mao no rosto
+1021,00:34,careta
+1021,00:34,mao no rosto
+1021,00:34,mao no rosto
+1022,00:34,careta
+1022,00:34,mao no rosto
+1022,00:34,mao no rosto
+1023,00:34,careta
+1023,00:34,mao no rosto
+1023,00:34,mao no rosto
+1024,00:34,careta
+1024,00:34,mao no rosto
+1024,00:34,mao no rosto
+1025,00:34,careta
+1025,00:34,mao no rosto
+1025,00:34,mao no rosto
+1026,00:34,careta
+1026,00:34,mao no rosto
+1026,00:34,mao no rosto
+1027,00:34,careta
+1027,00:34,mao no rosto
+1027,00:34,mao no rosto
+1028,00:34,careta
+1028,00:34,mao no rosto
+1028,00:34,mao no rosto
+1029,00:34,careta
+1029,00:34,mao no rosto
+1029,00:34,mao no rosto
+1030,00:34,careta
+1030,00:34,mao no rosto
+1030,00:34,mao no rosto
+1031,00:34,careta
+1031,00:34,mao no rosto
+1031,00:34,mao no rosto
+1032,00:34,careta
+1032,00:34,mao no rosto
+1032,00:34,mao no rosto
+1033,00:34,careta
+1033,00:34,mao no rosto
+1033,00:34,mao no rosto
+1034,00:34,careta
+1034,00:34,mao no rosto
+1034,00:34,mao no rosto
+1035,00:34,careta
+1035,00:34,mao no rosto
+1035,00:34,mao no rosto
+1036,00:34,careta
+1036,00:34,mao no rosto
+1036,00:34,mao no rosto
+1037,00:34,careta
+1037,00:34,mao no rosto
+1037,00:34,mao no rosto
+1038,00:34,careta
+1038,00:34,mao no rosto
+1038,00:34,mao no rosto
+1039,00:34,careta
+1039,00:34,mao no rosto
+1039,00:34,mao no rosto
+1040,00:34,careta
+1040,00:34,mao no rosto
+1040,00:34,mao no rosto
+1041,00:34,careta
+1041,00:34,mao no rosto
+1041,00:34,mao no rosto
+1042,00:34,careta
+1042,00:34,mao no rosto
+1042,00:34,mao no rosto
+1043,00:34,careta
+1043,00:34,mao no rosto
+1043,00:34,mao no rosto
+1044,00:34,careta
+1044,00:34,mao no rosto
+1044,00:34,mao no rosto
+1045,00:34,careta
+1045,00:34,mao no rosto
+1045,00:34,mao no rosto
+1046,00:34,careta
+1046,00:34,mao no rosto
+1046,00:34,mao no rosto
+1047,00:34,careta
+1047,00:34,mao no rosto
+1047,00:34,mao no rosto
+1048,00:34,careta
+1048,00:34,mao no rosto
+1048,00:34,mao no rosto
+1049,00:34,careta
+1049,00:34,mao no rosto
+1049,00:34,mao no rosto
+1050,00:35,careta
+1050,00:35,mao no rosto
+1050,00:35,mao no rosto
+1051,00:35,careta
+1051,00:35,mao no rosto
+1051,00:35,mao no rosto
+1052,00:35,careta
+1052,00:35,mao no rosto
+1052,00:35,mao no rosto
+1053,00:35,careta
+1053,00:35,mao no rosto
+1053,00:35,mao no rosto
+1054,00:35,careta
+1054,00:35,mao no rosto
+1054,00:35,mao no rosto
+1055,00:35,careta
+1055,00:35,mao no rosto
+1055,00:35,mao no rosto
+1056,00:35,careta
+1056,00:35,mao no rosto
+1056,00:35,mao no rosto
+1057,00:35,careta
+1057,00:35,mao no rosto
+1057,00:35,mao no rosto
+1058,00:35,careta
+1058,00:35,mao no rosto
+1058,00:35,mao no rosto
+1059,00:35,careta
+1059,00:35,mao no rosto
+1059,00:35,mao no rosto
+1060,00:35,careta
+1060,00:35,mao no rosto
+1060,00:35,mao no rosto
+1061,00:35,careta
+1061,00:35,mao no rosto
+1061,00:35,mao no rosto
+1062,00:35,careta
+1062,00:35,mao no rosto
+1062,00:35,mao no rosto
+1063,00:35,careta
+1063,00:35,mao no rosto
+1063,00:35,mao no rosto
+1064,00:35,careta
+1064,00:35,mao no rosto
+1064,00:35,mao no rosto
+1065,00:35,careta
+1065,00:35,mao no rosto
+1065,00:35,mao no rosto
+1066,00:35,careta
+1066,00:35,mao no rosto
+1066,00:35,mao no rosto
+1067,00:35,careta
+1067,00:35,mao no rosto
+1067,00:35,mao no rosto
+1068,00:35,careta
+1068,00:35,mao no rosto
+1068,00:35,mao no rosto
+1069,00:35,careta
+1069,00:35,mao no rosto
+1069,00:35,mao no rosto
+1070,00:35,careta
+1070,00:35,mao no rosto
+1070,00:35,mao no rosto
+1071,00:35,careta
+1071,00:35,mao no rosto
+1071,00:35,mao no rosto
+1072,00:35,careta
+1072,00:35,mao no rosto
+1072,00:35,mao no rosto
+1073,00:35,careta
+1073,00:35,mao no rosto
+1073,00:35,mao no rosto
+1074,00:35,careta
+1074,00:35,mao no rosto
+1074,00:35,mao no rosto
+1075,00:35,careta
+1075,00:35,mao no rosto
+1075,00:35,mao no rosto
+1076,00:35,careta
+1076,00:35,mao no rosto
+1076,00:35,mao no rosto
+1077,00:35,careta
+1077,00:35,mao no rosto
+1077,00:35,mao no rosto
+1078,00:35,careta
+1078,00:35,mao no rosto
+1078,00:35,mao no rosto
+1079,00:35,careta
+1079,00:35,mao no rosto
+1079,00:35,mao no rosto
+1080,00:36,careta
+1080,00:36,mao no rosto
+1080,00:36,mao no rosto
+1081,00:36,medo
+1081,00:36,mao no rosto
+1082,00:36,medo
+1082,00:36,mao no rosto
+1083,00:36,medo
+1083,00:36,mao no rosto
+1084,00:36,medo
+1084,00:36,mao no rosto
+1085,00:36,medo
+1085,00:36,mao no rosto
+1086,00:36,medo
+1086,00:36,mao no rosto
+1087,00:36,medo
+1087,00:36,mao no rosto
+1088,00:36,medo
+1088,00:36,mao no rosto
+1089,00:36,medo
+1089,00:36,mao no rosto
+1090,00:36,medo
+1090,00:36,mao no rosto
+1091,00:36,medo
+1091,00:36,mao no rosto
+1092,00:36,medo
+1092,00:36,mao no rosto
+1093,00:36,neutro
+1093,00:36,mao no rosto
+1094,00:36,medo
+1094,00:36,mao no rosto
+1095,00:36,medo
+1095,00:36,mao no rosto
+1096,00:36,medo
+1096,00:36,mao no rosto
+1097,00:36,medo
+1097,00:36,mao no rosto
+1098,00:36,medo
+1098,00:36,mao no rosto
+1099,00:36,medo
+1099,00:36,mao no rosto
+1100,00:36,medo
+1100,00:36,mao no rosto
+1101,00:36,medo
+1101,00:36,mao no rosto
+1102,00:36,medo
+1102,00:36,mao no rosto
+1103,00:36,medo
+1103,00:36,mao no rosto
+1104,00:36,medo
+1104,00:36,mao no rosto
+1105,00:36,medo
+1105,00:36,mao no rosto
+1106,00:36,medo
+1106,00:36,mao no rosto
+1107,00:36,medo
+1107,00:36,mao no rosto
+1108,00:36,medo
+1108,00:36,mao no rosto
+1109,00:36,medo
+1109,00:36,mao no rosto
+1110,00:37,medo
+1110,00:37,mao no rosto
+1111,00:37,medo
+1111,00:37,mao no rosto
+1112,00:37,medo
+1112,00:37,mao no rosto
+1113,00:37,medo
+1113,00:37,mao no rosto
+1114,00:37,medo
+1114,00:37,mao no rosto
+1115,00:37,medo
+1115,00:37,mao no rosto
+1116,00:37,medo
+1116,00:37,mao no rosto
+1117,00:37,neutro
+1117,00:37,mao no rosto
+1118,00:37,triste
+1118,00:37,mao no rosto
+1119,00:37,medo
+1119,00:37,mao no rosto
+1120,00:37,medo
+1120,00:37,mao no rosto
+1121,00:37,medo
+1121,00:37,mao no rosto
+1122,00:37,medo
+1122,00:37,mao no rosto
+1123,00:37,medo
+1123,00:37,mao no rosto
+1124,00:37,neutro
+1124,00:37,mao no rosto
+1125,00:37,medo
+1125,00:37,mao no rosto
+1126,00:37,medo
+1126,00:37,mao no rosto
+1127,00:37,medo
+1127,00:37,mao no rosto
+1128,00:37,neutro
+1128,00:37,mao no rosto
+1129,00:37,neutro
+1129,00:37,mao no rosto
+1130,00:37,medo
+1130,00:37,mao no rosto
+1131,00:37,medo
+1131,00:37,mao no rosto
+1132,00:37,medo
+1132,00:37,mao no rosto
+1133,00:37,medo
+1133,00:37,mao no rosto
+1134,00:37,medo
+1134,00:37,mao no rosto
+1135,00:37,medo
+1135,00:37,mao no rosto
+1136,00:37,neutro
+1136,00:37,mao no rosto
+1137,00:37,medo
+1137,00:37,mao no rosto
+1138,00:37,medo
+1138,00:37,mao no rosto
+1139,00:37,medo
+1139,00:37,mao no rosto
+1140,00:38,medo
+1140,00:38,mao no rosto
+1141,00:38,medo
+1141,00:38,mao no rosto
+1142,00:38,medo
+1142,00:38,mao no rosto
+1143,00:38,medo
+1143,00:38,mao no rosto
+1144,00:38,medo
+1144,00:38,mao no rosto
+1145,00:38,medo
+1145,00:38,mao no rosto
+1146,00:38,medo
+1146,00:38,mao no rosto
+1147,00:38,medo
+1147,00:38,mao no rosto
+1148,00:38,medo
+1148,00:38,mao no rosto
+1149,00:38,medo
+1149,00:38,mao no rosto
+1150,00:38,medo
+1150,00:38,mao no rosto
+1151,00:38,medo
+1151,00:38,mao no rosto
+1152,00:38,medo
+1152,00:38,mao no rosto
+1153,00:38,medo
+1153,00:38,mao no rosto
+1154,00:38,medo
+1154,00:38,mao no rosto
+1155,00:38,medo
+1155,00:38,mao no rosto
+1156,00:38,medo
+1156,00:38,mao no rosto
+1157,00:38,medo
+1157,00:38,mao no rosto
+1158,00:38,neutro
+1158,00:38,mao no rosto
+1159,00:38,neutro
+1159,00:38,mao no rosto
+1160,00:38,neutro
+1160,00:38,mao no rosto
+1161,00:38,neutro
+1161,00:38,mao no rosto
+1162,00:38,neutro
+1162,00:38,mao no rosto
+1163,00:38,medo
+1163,00:38,mao no rosto
+1164,00:38,medo
+1164,00:38,mao no rosto
+1165,00:38,medo
+1165,00:38,mao no rosto
+1166,00:38,neutro
+1166,00:38,mao no rosto
+1167,00:38,neutro
+1167,00:38,mao no rosto
+1168,00:38,medo
+1168,00:38,mao no rosto
+1169,00:38,neutro
+1169,00:38,mao no rosto
+1170,00:39,neutro
+1170,00:39,mao no rosto
+1171,00:39,neutro
+1171,00:39,mao no rosto
+1172,00:39,neutro
+1172,00:39,mao no rosto
+1173,00:39,medo
+1173,00:39,mao no rosto
+1174,00:39,medo
+1174,00:39,mao no rosto
+1175,00:39,medo
+1175,00:39,mao no rosto
+1176,00:39,medo
+1176,00:39,mao no rosto
+1177,00:39,neutro
+1177,00:39,mao no rosto
+1178,00:39,neutro
+1178,00:39,mao no rosto
+1179,00:39,neutro
+1179,00:39,mao no rosto
+1180,00:39,medo
+1180,00:39,mao no rosto
+1181,00:39,medo
+1181,00:39,mao no rosto
+1182,00:39,medo
+1182,00:39,mao no rosto
+1183,00:39,medo
+1183,00:39,mao no rosto
+1184,00:39,medo
+1184,00:39,mao no rosto
+1185,00:39,medo
+1185,00:39,mao no rosto
+1186,00:39,medo
+1186,00:39,mao no rosto
+1187,00:39,medo
+1187,00:39,mao no rosto
+1188,00:39,medo
+1188,00:39,mao no rosto
+1189,00:39,medo
+1189,00:39,mao no rosto
+1190,00:39,medo
+1190,00:39,mao no rosto
+1191,00:39,medo
+1191,00:39,mao no rosto
+1192,00:39,medo
+1192,00:39,mao no rosto
+1193,00:39,medo
+1193,00:39,mao no rosto
+1194,00:39,medo
+1194,00:39,mao no rosto
+1195,00:39,medo
+1195,00:39,mao no rosto
+1196,00:39,medo
+1196,00:39,mao no rosto
+1197,00:39,medo
+1197,00:39,mao no rosto
+1198,00:39,medo
+1198,00:39,mao no rosto
+1199,00:39,medo
+1199,00:39,mao no rosto
+1200,00:40,medo
+1200,00:40,mao no rosto
+1201,00:40,medo
+1201,00:40,mao no rosto
+1202,00:40,medo
+1202,00:40,mao no rosto
+1203,00:40,neutro
+1203,00:40,mao no rosto
+1204,00:40,medo
+1204,00:40,mao no rosto
+1205,00:40,medo
+1205,00:40,mao no rosto
+1206,00:40,medo
+1206,00:40,mao no rosto
+1207,00:40,medo
+1207,00:40,mao no rosto
+1208,00:40,medo
+1208,00:40,mao no rosto
+1209,00:40,medo
+1209,00:40,mao no rosto
+1210,00:40,medo
+1210,00:40,mao no rosto
+1211,00:40,medo
+1211,00:40,mao no rosto
+1212,00:40,neutro
+1212,00:40,mao no rosto
+1213,00:40,neutro
+1213,00:40,mao no rosto
+1214,00:40,neutro
+1214,00:40,mao no rosto
+1215,00:40,medo
+1215,00:40,mao no rosto
+1216,00:40,neutro
+1216,00:40,mao no rosto
+1217,00:40,medo
+1217,00:40,mao no rosto
+1218,00:40,triste
+1218,00:40,mao no rosto
+1219,00:40,neutro
+1219,00:40,mao no rosto
+1220,00:40,neutro
+1220,00:40,mao no rosto
+1221,00:40,neutro
+1221,00:40,mao no rosto
+1222,00:40,triste
+1222,00:40,mao no rosto
+1223,00:40,triste
+1223,00:40,mao no rosto
+1224,00:40,triste
+1224,00:40,mao no rosto
+1225,00:40,bravo
+1225,00:40,mao no rosto
+1226,00:40,triste
+1226,00:40,mao no rosto
+1227,00:40,triste
+1227,00:40,mao no rosto
+1228,00:40,triste
+1228,00:40,mao no rosto
+1228,00:40,mao no rosto
+1229,00:40,triste
+1229,00:40,mao no rosto
+1230,00:41,triste
+1230,00:41,mao no rosto
+1231,00:41,triste
+1231,00:41,mao no rosto
+1232,00:41,triste
+1232,00:41,mao no rosto
+1233,00:41,triste
+1233,00:41,mao no rosto
+1234,00:41,triste
+1234,00:41,mao no rosto
+1235,00:41,triste
+1235,00:41,mao no rosto
+1236,00:41,triste
+1236,00:41,mao no rosto
+1237,00:41,triste
+1237,00:41,mao no rosto
+1238,00:41,triste
+1238,00:41,mao no rosto
+1239,00:41,triste
+1239,00:41,mao no rosto
+1240,00:41,triste
+1240,00:41,mao no rosto
+1241,00:41,triste
+1241,00:41,mao no rosto
+1242,00:41,triste
+1242,00:41,mao no rosto
+1242,00:41,mao no rosto
+1243,00:41,triste
+1243,00:41,mao no rosto
+1244,00:41,triste
+1244,00:41,mao no rosto
+1245,00:41,triste
+1245,00:41,mao no rosto
+1246,00:41,triste
+1246,00:41,mao no rosto
+1247,00:41,mao no rosto
+1248,00:41,mao no rosto
+1249,00:41,triste
+1249,00:41,mao no rosto
+1250,00:41,mao no rosto
+1251,00:41,mao no rosto
+1252,00:41,triste
+1252,00:41,mao no rosto
+1253,00:41,mao no rosto
+1254,00:41,mao no rosto
+1255,00:41,medo
+1255,00:41,mao no rosto
+1256,00:41,medo
+1256,00:41,mao no rosto
+1257,00:41,medo
+1257,00:41,mao no rosto
+1258,00:41,medo
+1258,00:41,mao no rosto
+1259,00:41,medo
+1259,00:41,mao no rosto
+1260,00:42,medo
+1260,00:42,mao no rosto
+1261,00:42,triste
+1262,00:42,triste
+1263,00:42,neutro
+1264,00:42,triste
+1265,00:42,triste
+1266,00:42,careta
+1267,00:42,careta
+1268,00:42,careta
+1269,00:42,bravo
+1270,00:42,careta
+1271,00:42,neutro
+1272,00:42,careta
+1273,00:42,bravo
+1274,00:42,bravo
+1275,00:42,bravo
+1276,00:42,bravo
+1277,00:42,careta
+1278,00:42,careta
+1279,00:42,careta
+1280,00:42,careta
+1281,00:42,careta
+1282,00:42,careta
+1283,00:42,careta
+1284,00:42,careta
+1285,00:42,neutro
+1286,00:42,careta
+1287,00:42,careta
+1288,00:42,careta
+1289,00:42,careta
+1290,00:43,neutro
+1291,00:43,careta
+1292,00:43,careta
+1293,00:43,careta
+1294,00:43,careta
+1295,00:43,triste
+1296,00:43,careta
+1297,00:43,careta
+1298,00:43,careta
+1299,00:43,careta
+1300,00:43,careta
+1301,00:43,careta
+1302,00:43,careta
+1303,00:43,careta
+1304,00:43,careta
+1305,00:43,careta
+1306,00:43,careta
+1307,00:43,triste
+1308,00:43,triste
+1309,00:43,bravo
+1310,00:43,bravo
+1311,00:43,bravo
+1312,00:43,bravo
+1313,00:43,bravo
+1314,00:43,bravo
+1315,00:43,bravo
+1316,00:43,medo
+1317,00:43,bravo
+1318,00:43,bravo
+1319,00:43,bravo
+1320,00:44,bravo
+1321,00:44,triste
+1322,00:44,triste
+1323,00:44,bravo
+1324,00:44,careta
+1325,00:44,careta
+1326,00:44,careta
+1327,00:44,careta
+1328,00:44,careta
+1329,00:44,careta
+1330,00:44,careta
+1331,00:44,careta
+1332,00:44,careta
+1333,00:44,careta
+1334,00:44,careta
+1335,00:44,careta
+1336,00:44,careta
+1337,00:44,careta
+1338,00:44,careta
+1339,00:44,careta
+1340,00:44,careta
+1341,00:44,careta
+1342,00:44,careta
+1343,00:44,careta
+1344,00:44,careta
+1345,00:44,careta
+1346,00:44,careta
+1347,00:44,careta
+1348,00:44,neutro
+1349,00:44,neutro
+1350,00:45,careta
+1351,00:45,careta
+1352,00:45,careta
+1353,00:45,careta
+1354,00:45,careta
+1355,00:45,careta
+1356,00:45,careta
+1357,00:45,careta
+1358,00:45,careta
+1359,00:45,careta
+1360,00:45,careta
+1361,00:45,careta
+1362,00:45,careta
+1363,00:45,careta
+1364,00:45,careta
+1365,00:45,careta
+1366,00:45,careta
+1367,00:45,careta
+1368,00:45,bravo
+1369,00:45,triste
+1370,00:45,neutro
+1371,00:45,triste
+1372,00:45,triste
+1373,00:45,neutro
+1374,00:45,neutro
+1375,00:45,neutro
+1376,00:45,neutro
+1377,00:45,neutro
+1378,00:45,neutro
+1379,00:45,neutro
+1380,00:46,neutro
+1381,00:46,neutro
+1382,00:46,neutro
+1383,00:46,neutro
+1384,00:46,neutro
+1385,00:46,neutro
+1385,00:46,mao no rosto
+1386,00:46,triste
+1387,00:46,neutro
+1388,00:46,neutro
+1389,00:46,neutro
+1390,00:46,triste
+1391,00:46,neutro
+1392,00:46,careta
+1393,00:46,careta
+1394,00:46,careta
+1395,00:46,careta
+1396,00:46,careta
+1397,00:46,careta
+1398,00:46,careta
+1399,00:46,careta
+1400,00:46,careta
+1401,00:46,careta
+1402,00:46,careta
+1403,00:46,careta
+1404,00:46,careta
+1405,00:46,careta
+1406,00:46,careta
+1407,00:46,careta
+1407,00:46,mao no rosto
+1408,00:46,careta
+1409,00:46,careta
+1410,00:47,careta
+1411,00:47,neutro
+1412,00:47,careta
+1413,00:47,neutro
+1414,00:47,neutro
+1415,00:47,neutro
+1416,00:47,careta
+1417,00:47,neutro
+1418,00:47,neutro
+1419,00:47,neutro
+1420,00:47,careta
+1421,00:47,careta
+1422,00:47,careta
+1423,00:47,careta
+1424,00:47,careta
+1425,00:47,careta
+1426,00:47,careta
+1427,00:47,neutro
+1428,00:47,neutro
+1429,00:47,careta
+1430,00:47,careta
+1431,00:47,careta
+1432,00:47,careta
+1433,00:47,careta
+1434,00:47,careta
+1435,00:47,careta
+1436,00:47,neutro
+1437,00:47,careta
+1438,00:47,careta
+1439,00:47,careta
+1440,00:48,neutro
+1441,00:48,neutro
+1442,00:48,neutro
+1443,00:48,neutro
+1444,00:48,neutro
+1445,00:48,neutro
+1446,00:48,neutro
+1447,00:48,neutro
+1448,00:48,neutro
+1449,00:48,neutro
+1450,00:48,neutro
+1451,00:48,neutro
+1452,00:48,neutro
+1453,00:48,neutro
+1454,00:48,neutro
+1455,00:48,neutro
+1456,00:48,neutro
+1457,00:48,neutro
+1458,00:48,feliz
+1459,00:48,neutro
+1460,00:48,feliz
+1461,00:48,feliz
+1462,00:48,feliz
+1463,00:48,feliz
+1464,00:48,feliz
+1465,00:48,feliz
+1466,00:48,feliz
+1467,00:48,feliz
+1468,00:48,feliz
+1469,00:48,neutro
+1470,00:49,feliz
+1471,00:49,neutro
+1472,00:49,feliz
+1473,00:49,neutro
+1474,00:49,neutro
+1475,00:49,triste
+1476,00:49,triste
+1477,00:49,feliz
+1478,00:49,feliz
+1479,00:49,feliz
+1480,00:49,feliz
+1481,00:49,bravo
+1482,00:49,triste
+1483,00:49,feliz
+1484,00:49,feliz
+1485,00:49,feliz
+1486,00:49,feliz
+1487,00:49,feliz
+1488,00:49,feliz
+1489,00:49,feliz
+1490,00:49,feliz
+1491,00:49,feliz
+1492,00:49,feliz
+1493,00:49,feliz
+1494,00:49,feliz
+1495,00:49,feliz
+1496,00:49,feliz
+1497,00:49,feliz
+1498,00:49,feliz
+1499,00:49,feliz
+1500,00:50,feliz
+1501,00:50,feliz
+1502,00:50,feliz
+1503,00:50,feliz
+1504,00:50,feliz
+1505,00:50,feliz
+1506,00:50,feliz
+1507,00:50,feliz
+1508,00:50,feliz
+1509,00:50,feliz
+1510,00:50,feliz
+1511,00:50,feliz
+1512,00:50,feliz
+1513,00:50,feliz
+1514,00:50,feliz
+1515,00:50,feliz
+1516,00:50,feliz
+1517,00:50,feliz
+1518,00:50,feliz
+1519,00:50,feliz
+1520,00:50,feliz
+1521,00:50,feliz
+1522,00:50,feliz
+1523,00:50,feliz
+1524,00:50,feliz
+1525,00:50,feliz
+1526,00:50,feliz
+1527,00:50,feliz
+1528,00:50,feliz
+1529,00:50,feliz
+1530,00:51,feliz
+1531,00:51,feliz
+1532,00:51,feliz
+1533,00:51,feliz
+1534,00:51,feliz
+1535,00:51,feliz
+1536,00:51,feliz
+1537,00:51,feliz
+1538,00:51,feliz
+1539,00:51,feliz
+1540,00:51,feliz
+1541,00:51,feliz
+1542,00:51,feliz
+1543,00:51,feliz
+1544,00:51,feliz
+1545,00:51,feliz
+1546,00:51,feliz
+1547,00:51,feliz
+1548,00:51,feliz
+1549,00:51,feliz
+1550,00:51,feliz
+1551,00:51,feliz
+1552,00:51,feliz
+1553,00:51,feliz
+1554,00:51,feliz
+1555,00:51,surpreso
+1556,00:51,neutro
+1557,00:51,surpreso
+1558,00:51,medo
+1559,00:51,neutro
+1560,00:52,medo
+1561,00:52,medo
+1562,00:52,medo
+1563,00:52,surpreso
+1564,00:52,surpreso
+1565,00:52,surpreso
+1566,00:52,surpreso
+1567,00:52,surpreso
+1568,00:52,medo
+1569,00:52,feliz
+1570,00:52,feliz
+1571,00:52,feliz
+1572,00:52,feliz
+1573,00:52,feliz
+1574,00:52,feliz
+1575,00:52,feliz
+1576,00:52,feliz
+1577,00:52,feliz
+1578,00:52,feliz
+1579,00:52,feliz
+1580,00:52,feliz
+1581,00:52,feliz
+1582,00:52,feliz
+1583,00:52,feliz
+1584,00:52,feliz
+1585,00:52,feliz
+1586,00:52,feliz
+1587,00:52,feliz
+1588,00:52,feliz
+1589,00:52,feliz
+1590,00:53,feliz
+1591,00:53,feliz
+1592,00:53,feliz
+1593,00:53,feliz
+1594,00:53,feliz
+1595,00:53,feliz
+1596,00:53,feliz
+1597,00:53,feliz
+1598,00:53,feliz
+1599,00:53,neutro
+1600,00:53,neutro
+1601,00:53,neutro
+1602,00:53,neutro
+1603,00:53,neutro
+1604,00:53,neutro
+1605,00:53,neutro
+1606,00:53,neutro
+1607,00:53,neutro
+1608,00:53,feliz
+1609,00:53,feliz
+1610,00:53,feliz
+1611,00:53,feliz
+1612,00:53,medo
+1613,00:53,surpreso
+1614,00:53,surpreso
+1615,00:53,surpreso
+1616,00:53,medo
+1617,00:53,medo
+1618,00:53,feliz
+1619,00:53,feliz
+1620,00:54,surpreso
+1621,00:54,neutro
+1622,00:54,neutro
+1623,00:54,neutro
+1624,00:54,neutro
+1625,00:54,neutro
+1626,00:54,neutro
+1627,00:54,neutro
+1628,00:54,neutro
+1629,00:54,neutro
+1630,00:54,neutro
+1631,00:54,neutro
+1632,00:54,neutro
+1633,00:54,neutro
+1634,00:54,neutro
+1635,00:54,neutro
+1636,00:54,neutro
+1637,00:54,neutro
+1638,00:54,neutro
+1639,00:54,neutro
+1640,00:54,neutro
+1641,00:54,neutro
+1642,00:54,neutro
+1643,00:54,neutro
+1644,00:54,neutro
+1645,00:54,neutro
+1646,00:54,neutro
+1647,00:54,neutro
+1648,00:54,neutro
+1649,00:54,neutro
+1650,00:55,neutro
+1651,00:55,neutro
+1652,00:55,neutro
+1653,00:55,neutro
+1654,00:55,neutro
+1655,00:55,neutro
+1656,00:55,neutro
+1657,00:55,neutro
+1658,00:55,neutro
+1659,00:55,neutro
+1660,00:55,neutro
+1661,00:55,triste
+1662,00:55,triste
+1663,00:55,triste
+1664,00:55,neutro
+1665,00:55,neutro
+1666,00:55,neutro
+1667,00:55,bravo
+1668,00:55,neutro
+1669,00:55,triste
+1670,00:55,triste
+1671,00:55,neutro
+1672,00:55,neutro
+1673,00:55,neutro
+1674,00:55,neutro
+1675,00:55,neutro
+1676,00:55,neutro
+1677,00:55,neutro
+1678,00:55,neutro
+1679,00:55,neutro
+1680,00:56,neutro
+1681,00:56,neutro
+1682,00:56,neutro
+1683,00:56,neutro
+1684,00:56,neutro
+1685,00:56,neutro
+1686,00:56,neutro
+1687,00:56,neutro
+1688,00:56,neutro
+1689,00:56,neutro
+1690,00:56,neutro
+1691,00:56,neutro
+1692,00:56,neutro
+1693,00:56,neutro
+1694,00:56,neutro
+1695,00:56,neutro
+1696,00:56,neutro
+1697,00:56,neutro
+1698,00:56,neutro
+1699,00:56,neutro
+1700,00:56,neutro
+1701,00:56,careta
+1702,00:56,careta
+1703,00:56,careta
+1704,00:56,careta
+1705,00:56,careta
+1706,00:56,careta
+1707,00:56,careta
+1708,00:56,careta
+1709,00:56,careta
+1710,00:57,careta
+1711,00:57,bravo
+1712,00:57,bravo
+1713,00:57,bravo
+1714,00:57,feliz
+1715,00:57,feliz
+1716,00:57,bravo
+1717,00:57,feliz
+1718,00:57,feliz
+1719,00:57,feliz
+1720,00:57,feliz
+1721,00:57,feliz
+1722,00:57,feliz
+1723,00:57,feliz
+1724,00:57,feliz
+1725,00:57,medo
+1726,00:57,medo
+1727,00:57,bravo
+1728,00:57,feliz
+1729,00:57,feliz
+1730,00:57,feliz
+1731,00:57,feliz
+1732,00:57,medo
+1733,00:57,medo
+1734,00:57,medo
+1735,00:57,feliz
+1736,00:57,feliz
+1737,00:57,medo
+1738,00:57,medo
+1739,00:57,medo
+1740,00:58,medo
+1741,00:58,medo
+1742,00:58,medo
+1743,00:58,medo
+1744,00:58,medo
+1745,00:58,medo
+1746,00:58,medo
+1747,00:58,bravo
+1748,00:58,bravo
+1749,00:58,bravo
+1750,00:58,medo
+1751,00:58,bravo
+1752,00:58,bravo
+1753,00:58,bravo
+1754,00:58,bravo
+1755,00:58,feliz
+1756,00:58,bravo
+1757,00:58,bravo
+1758,00:58,medo
+1759,00:58,bravo
+1760,00:58,bravo
+1761,00:58,medo
+1762,00:58,medo
+1763,00:58,medo
+1764,00:58,medo
+1765,00:58,triste
+1766,00:58,triste
+1767,00:58,medo
+1768,00:58,medo
+1769,00:58,triste
+1770,00:59,triste
+1771,00:59,triste
+1772,00:59,triste
+1773,00:59,triste
+1774,00:59,triste
+1775,00:59,triste
+1776,00:59,triste
+1777,00:59,triste
+1778,00:59,triste
+1779,00:59,triste
+1780,00:59,triste
+1781,00:59,triste
+1782,00:59,triste
+1783,00:59,triste
+1784,00:59,feliz
+1785,00:59,triste
+1786,00:59,triste
+1787,00:59,triste
+1788,00:59,medo
+1789,00:59,triste
+1790,00:59,feliz
+1791,00:59,medo
+1792,00:59,triste
+1793,00:59,triste
+1794,00:59,medo
+1795,00:59,medo
+1796,00:59,medo
+1797,00:59,medo
+1798,00:59,medo
+1799,00:59,triste
+1800,01:00,medo
+1801,01:00,medo
+1802,01:00,medo
+1803,01:00,medo
+1804,01:00,medo
+1805,01:00,medo
+1806,01:00,triste
+1807,01:00,triste
+1808,01:00,medo
+1809,01:00,medo
+1810,01:00,medo
+1811,01:00,medo
+1812,01:00,medo
+1813,01:00,medo
+1814,01:00,medo
+1815,01:00,medo
+1816,01:00,medo
+1817,01:00,medo
+1818,01:00,medo
+1819,01:00,medo
+1820,01:00,medo
+1821,01:00,medo
+1822,01:00,medo
+1823,01:00,neutro
+1824,01:00,neutro
+1825,01:00,medo
+1826,01:00,neutro
+1827,01:00,neutro
+1828,01:00,neutro
+1829,01:00,neutro
+1830,01:01,medo
+1831,01:01,triste
+1832,01:01,triste
+1833,01:01,triste
+1833,01:01,mao no rosto
+1834,01:01,triste
+1835,01:01,triste
+1836,01:01,triste
+1837,01:01,triste
+1837,01:01,mao levantada
+1838,01:01,triste
+1839,01:01,triste
+1840,01:01,triste
+1841,01:01,bravo
+1842,01:01,bravo
+1843,01:01,bravo
+1843,01:01,mao no rosto
+1844,01:01,bravo
+1845,01:01,bravo
+1846,01:01,bravo
+1847,01:01,bravo
+1848,01:01,bravo
+1849,01:01,bravo
+1850,01:01,bravo
+1851,01:01,bravo
+1852,01:01,bravo
+1853,01:01,bravo
+1854,01:01,bravo
+1855,01:01,bravo
+1856,01:01,bravo
+1857,01:01,bravo
+1858,01:01,bravo
+1859,01:01,bravo
+1860,01:02,bravo
+1861,01:02,bravo
+1862,01:02,bravo
+1863,01:02,bravo
+1864,01:02,bravo
+1865,01:02,bravo
+1866,01:02,bravo
+1867,01:02,bravo
+1868,01:02,bravo
+1869,01:02,bravo
+1870,01:02,bravo
+1871,01:02,bravo
+1872,01:02,bravo
+1873,01:02,bravo
+1874,01:02,bravo
+1875,01:02,bravo
+1876,01:02,bravo
+1877,01:02,bravo
+1878,01:02,bravo
+1879,01:02,bravo
+1880,01:02,bravo
+1881,01:02,triste
+1882,01:02,triste
+1883,01:02,triste
+1884,01:02,bravo
+1885,01:02,bravo
+1886,01:02,bravo
+1887,01:02,triste
+1888,01:02,bravo
+1889,01:02,bravo
+1890,01:03,bravo
+1891,01:03,bravo
+1892,01:03,bravo
+1893,01:03,bravo
+1894,01:03,bravo
+1894,01:03,mao no rosto
+1895,01:03,bravo
+1896,01:03,bravo
+1897,01:03,bravo
+1898,01:03,bravo
+1899,01:03,bravo
+1900,01:03,medo
+1901,01:03,bravo
+1902,01:03,bravo
+1903,01:03,bravo
+1904,01:03,bravo
+1905,01:03,bravo
+1906,01:03,bravo
+1907,01:03,bravo
+1908,01:03,bravo
+1909,01:03,bravo
+1910,01:03,bravo
+1911,01:03,bravo
+1912,01:03,bravo
+1913,01:03,bravo
+1914,01:03,bravo
+1915,01:03,bravo
+1916,01:03,bravo
+1917,01:03,bravo
+1918,01:03,bravo
+1919,01:03,bravo
+1920,01:04,bravo
+1921,01:04,bravo
+1922,01:04,bravo
+1923,01:04,bravo
+1924,01:04,bravo
+1925,01:04,bravo
+1926,01:04,bravo
+1927,01:04,triste
+1928,01:04,triste
+1929,01:04,triste
+1930,01:04,triste
+1931,01:04,triste
+1932,01:04,triste
+1933,01:04,triste
+1934,01:04,triste
+1935,01:04,triste
+1936,01:04,triste
+1937,01:04,triste
+1938,01:04,triste
+1939,01:04,triste
+1939,01:04,mao no rosto
+1940,01:04,triste
+1941,01:04,triste
+1941,01:04,mao no rosto
+1942,01:04,triste
+1943,01:04,triste
+1944,01:04,triste
+1945,01:04,triste
+1948,01:04,triste
+1949,01:04,triste
+1950,01:05,triste
+1951,01:05,triste
+1952,01:05,triste
+1955,01:05,neutro
+1956,01:05,triste
+1957,01:05,triste
+1958,01:05,triste
+1959,01:05,triste
+1960,01:05,triste
+1963,01:05,triste
+1964,01:05,triste
+1965,01:05,triste
+1966,01:05,triste
+1967,01:05,triste
+1974,01:05,triste
+1975,01:05,triste
+1976,01:05,triste
+1977,01:05,triste
+1978,01:05,triste
+1981,01:06,triste
+1982,01:06,triste
+1985,01:06,triste
+1986,01:06,triste
+1987,01:06,triste
+1988,01:06,triste
+1989,01:06,triste
+2010,01:07,mao no rosto
+2010,01:07,mao no rosto
+2307,01:16,mao no rosto
+2308,01:16,mao no rosto
+2309,01:16,mao no rosto
+2310,01:17,mao levantada
+2310,01:17,mao no rosto
+2311,01:17,mao levantada
+2311,01:17,mao no rosto
+2312,01:17,mao levantada
+2312,01:17,mao no rosto
+2313,01:17,mao levantada
+2313,01:17,mao no rosto
+2314,01:17,mao levantada
+2314,01:17,mao no rosto
+2315,01:17,mao levantada
+2315,01:17,mao no rosto
+2316,01:17,mao levantada
+2316,01:17,mao no rosto
+2317,01:17,mao levantada
+2317,01:17,mao no rosto
+2318,01:17,mao levantada
+2318,01:17,mao no rosto
+2319,01:17,mao levantada
+2322,01:17,mao levantada
+2323,01:17,mao levantada
+2324,01:17,mao levantada
+2325,01:17,mao levantada
+2326,01:17,mao levantada
+2327,01:17,mao levantada
+2328,01:17,mao levantada
+2329,01:17,mao levantada
+2330,01:17,mao levantada
+2331,01:17,mao levantada
+2332,01:17,mao levantada
+2333,01:17,mao levantada
+2334,01:17,mao levantada
+2335,01:17,mao levantada
+2336,01:17,mao levantada
+2337,01:17,mao levantada
+2338,01:17,mao levantada
+2339,01:17,mao levantada
+2340,01:18,mao levantada
+2341,01:18,mao levantada
+2342,01:18,mao levantada
+2343,01:18,mao levantada
+2344,01:18,mao levantada
+2345,01:18,mao levantada
+2346,01:18,mao levantada
+2347,01:18,mao levantada
+2348,01:18,mao levantada
+2349,01:18,mao levantada
+2350,01:18,mao levantada
+2351,01:18,mao levantada
+2352,01:18,mao levantada
+2353,01:18,mao levantada
+2354,01:18,mao levantada
+2355,01:18,mao levantada
+2356,01:18,mao levantada
+2357,01:18,mao levantada
+2358,01:18,mao levantada
+2359,01:18,mao levantada
+2360,01:18,mao levantada
+2361,01:18,mao levantada
+2362,01:18,mao levantada
+2363,01:18,mao levantada
+2364,01:18,mao levantada
+2365,01:18,mao levantada
+2366,01:18,mao levantada
+2367,01:18,mao levantada
+2368,01:18,mao levantada
+2369,01:18,mao levantada
+2370,01:19,mao levantada
+2371,01:19,neutro
+2372,01:19,neutro
+2373,01:19,neutro
+2374,01:19,bravo
+2375,01:19,bravo
+2376,01:19,medo
+2377,01:19,bravo
+2378,01:19,feliz
+2379,01:19,bravo
+2380,01:19,medo
+2381,01:19,medo
+2382,01:19,medo
+2383,01:19,bravo
+2384,01:19,medo
+2385,01:19,bravo
+2386,01:19,medo
+2387,01:19,medo
+2388,01:19,medo
+2389,01:19,medo
+2390,01:19,medo
+2391,01:19,medo
+2392,01:19,bravo
+2393,01:19,medo
+2394,01:19,medo
+2395,01:19,medo
+2396,01:19,bravo
+2397,01:19,bravo
+2398,01:19,bravo
+2399,01:19,bravo
+2400,01:20,neutro
+2413,01:20,medo
+2414,01:20,medo
+2415,01:20,medo
+2581,01:26,medo
+2582,01:26,medo
+2583,01:26,medo
+2583,01:26,mao no rosto
+2584,01:26,neutro
+2585,01:26,medo
+2585,01:26,mao levantada
+2585,01:26,mao no rosto
+2586,01:26,neutro
+2587,01:26,neutro
+2588,01:26,neutro
+2589,01:26,neutro
+2589,01:26,mao levantada
+2589,01:26,mao no rosto
+2590,01:26,neutro
+2591,01:26,neutro
+2592,01:26,neutro
+2593,01:26,neutro
+2594,01:26,neutro
+2595,01:26,neutro
+2596,01:26,neutro
+2597,01:26,neutro
+2598,01:26,neutro
+2599,01:26,neutro
+2600,01:26,neutro
+2601,01:26,medo
+2602,01:26,medo
+2603,01:26,medo
+2604,01:26,neutro
+2605,01:26,neutro
+2606,01:26,medo
+2607,01:26,medo
+2608,01:26,medo
+2609,01:26,triste
+2610,01:27,triste
+2611,01:27,triste
+2612,01:27,triste
+2613,01:27,medo
+2614,01:27,neutro
+2615,01:27,medo
+2616,01:27,neutro
+2616,01:27,mao levantada
+2616,01:27,mao no rosto
+2617,01:27,medo
+2618,01:27,triste
+2619,01:27,medo
+2620,01:27,medo
+2620,01:27,mao levantada
+2620,01:27,mao no rosto
+2621,01:27,medo
+2622,01:27,medo
+2623,01:27,medo
+2624,01:27,medo
+2625,01:27,medo
+2626,01:27,medo
+2627,01:27,medo
+2627,01:27,mao no rosto
+2628,01:27,triste
+2628,01:27,mao levantada
+2628,01:27,mao no rosto
+2629,01:27,triste
+2629,01:27,mao levantada
+2629,01:27,mao no rosto
+2630,01:27,medo
+2630,01:27,mao no rosto
+2631,01:27,medo
+2632,01:27,medo
+2632,01:27,mao levantada
+2632,01:27,mao no rosto
+2633,01:27,medo
+2634,01:27,medo
+2635,01:27,medo
+2636,01:27,medo
+2637,01:27,medo
+2638,01:27,neutro
+2638,01:27,mao levantada
+2638,01:27,mao no rosto
+2639,01:27,medo
+2640,01:28,triste
+2641,01:28,medo
+2642,01:28,medo
+2643,01:28,triste
+2644,01:28,neutro
+2645,01:28,neutro
+2646,01:28,neutro
+2647,01:28,medo
+2648,01:28,medo
+2649,01:28,medo
+2650,01:28,neutro
+2651,01:28,medo
+2652,01:28,medo
+2653,01:28,medo
+2654,01:28,medo
+2655,01:28,medo
+2656,01:28,medo
+2657,01:28,medo
+2658,01:28,medo
+2659,01:28,medo
+2660,01:28,medo
+2661,01:28,medo
+2662,01:28,medo
+2663,01:28,medo
+2664,01:28,medo
+2665,01:28,medo
+2666,01:28,medo
+2667,01:28,medo
+2668,01:28,medo
+2669,01:28,medo
+2670,01:29,medo
+2671,01:29,medo
+2672,01:29,medo
+2673,01:29,medo
+2674,01:29,medo
+2675,01:29,medo
+2676,01:29,medo
+2677,01:29,medo
+2678,01:29,medo
+2679,01:29,medo
+2680,01:29,medo
+2680,01:29,mao levantada
+2680,01:29,mao no rosto
+2681,01:29,medo
+2682,01:29,medo
+2682,01:29,mao levantada
+2682,01:29,mao no rosto
+2683,01:29,medo
+2683,01:29,mao levantada
+2683,01:29,mao no rosto
+2684,01:29,medo
+2684,01:29,mao levantada
+2684,01:29,mao no rosto
+2685,01:29,medo
+2686,01:29,medo
+2687,01:29,medo
+2688,01:29,medo
+2689,01:29,medo
+2690,01:29,medo
+2691,01:29,triste
+2692,01:29,medo
+2693,01:29,medo
+2694,01:29,medo
+2695,01:29,medo
+2696,01:29,triste
+2697,01:29,triste
+2698,01:29,medo
+2699,01:29,medo
+2700,01:30,triste
+2701,01:30,triste
+2701,01:30,mao levantada
+2701,01:30,mao no rosto
+2702,01:30,triste
+2702,01:30,mao levantada
+2702,01:30,mao no rosto
+2703,01:30,medo
+2703,01:30,mao levantada
+2703,01:30,mao no rosto
+2704,01:30,medo
+2704,01:30,mao levantada
+2704,01:30,mao no rosto
+2705,01:30,medo
+2705,01:30,mao levantada
+2705,01:30,mao no rosto
+2706,01:30,medo
+2706,01:30,mao levantada
+2706,01:30,mao no rosto
+2707,01:30,medo
+2707,01:30,mao levantada
+2707,01:30,mao no rosto
+2708,01:30,medo
+2708,01:30,mao levantada
+2708,01:30,mao no rosto
+2709,01:30,medo
+2709,01:30,mao levantada
+2709,01:30,mao no rosto
+2710,01:30,medo
+2711,01:30,neutro
+2711,01:30,mao levantada
+2711,01:30,mao no rosto
+2712,01:30,medo
+2712,01:30,mao levantada
+2712,01:30,mao no rosto
+2713,01:30,neutro
+2714,01:30,medo
+2715,01:30,medo
+2716,01:30,medo
+2716,01:30,mao levantada
+2716,01:30,mao no rosto
+2717,01:30,medo
+2717,01:30,mao levantada
+2717,01:30,mao no rosto
+2718,01:30,medo
+2718,01:30,mao levantada
+2718,01:30,mao no rosto
+2719,01:30,medo
+2719,01:30,mao levantada
+2719,01:30,mao no rosto
+2720,01:30,medo
+2721,01:30,medo
+2722,01:30,medo
+2722,01:30,mao levantada
+2722,01:30,mao no rosto
+2723,01:30,neutro
+2724,01:30,neutro
+2725,01:30,neutro
+2726,01:30,medo
+2727,01:30,neutro
+2728,01:30,triste
+2729,01:30,triste
+2730,01:31,triste
+2731,01:31,medo
+2732,01:31,medo
+2733,01:31,medo
+2734,01:31,triste
+2734,01:31,mao levantada
+2734,01:31,mao no rosto
+2735,01:31,neutro
+2736,01:31,neutro
+2737,01:31,triste
+2738,01:31,neutro
+2739,01:31,medo
+2740,01:31,neutro
+2741,01:31,neutro
+2742,01:31,triste
+2743,01:31,triste
+2744,01:31,triste
+2745,01:31,medo
+2745,01:31,mao levantada
+2745,01:31,mao no rosto
+2746,01:31,medo
+2746,01:31,mao levantada
+2746,01:31,mao no rosto
+2747,01:31,medo
+2748,01:31,medo
+2748,01:31,mao levantada
+2748,01:31,mao no rosto
+2749,01:31,medo
+2749,01:31,mao levantada
+2749,01:31,mao no rosto
+2750,01:31,triste
+2751,01:31,medo
+2752,01:31,triste
+2752,01:31,mao levantada
+2752,01:31,mao no rosto
+2753,01:31,medo
+2754,01:31,medo
+2755,01:31,medo
+2755,01:31,mao levantada
+2755,01:31,mao no rosto
+2756,01:31,medo
+2757,01:31,medo
+2758,01:31,medo
+2759,01:31,medo
+2760,01:32,medo
+3005,01:40,mao no rosto
+3032,01:41,mao levantada
+3108,01:43,mao no rosto
+3109,01:43,mao no rosto
+3177,01:45,medo
+3179,01:45,neutro
+3180,01:46,neutro
+3180,01:46,neutro
+3181,01:46,triste
+3181,01:46,neutro
+3182,01:46,medo
+3182,01:46,neutro
+3183,01:46,triste
+3183,01:46,neutro
+3184,01:46,triste
+3184,01:46,triste
+3185,01:46,triste
+3185,01:46,triste
+3186,01:46,neutro
+3187,01:46,neutro
+3188,01:46,neutro
+3188,01:46,triste
+3189,01:46,neutro
+3190,01:46,neutro
+3191,01:46,neutro
+3192,01:46,neutro
+3193,01:46,neutro
+3194,01:46,neutro
+3195,01:46,neutro
+3197,01:46,neutro
+3207,01:46,triste
+3208,01:46,triste
+3211,01:47,neutro
+3212,01:47,neutro
+3213,01:47,neutro
+3214,01:47,neutro
+3215,01:47,neutro
+3219,01:47,neutro
+3220,01:47,medo
+3220,01:47,neutro
+3244,01:48,neutro
+3245,01:48,neutro
+3246,01:48,neutro
+3247,01:48,neutro
+3248,01:48,neutro
+3249,01:48,neutro
+3250,01:48,neutro
+3251,01:48,neutro
+3252,01:48,neutro
+3252,01:48,medo
+3253,01:48,medo
+3253,01:48,neutro
+3254,01:48,medo
+3254,01:48,neutro
+3255,01:48,neutro
+3255,01:48,medo
+3256,01:48,neutro
+3256,01:48,medo
+3257,01:48,medo
+3257,01:48,neutro
+3258,01:48,neutro
+3258,01:48,medo
+3259,01:48,neutro
+3259,01:48,medo
+3260,01:48,neutro
+3261,01:48,neutro
+3262,01:48,triste
+3263,01:48,triste
+3264,01:48,neutro
+3265,01:48,neutro
+3266,01:48,triste
+3267,01:48,triste
+3268,01:48,triste
+3269,01:48,neutro
+3270,01:49,triste
+3271,01:49,triste
+3272,01:49,triste
+3273,01:49,triste
+3275,01:49,triste
+3286,01:49,medo
+3287,01:49,medo
+3288,01:49,triste
+3288,01:49,medo
+3289,01:49,triste
+3289,01:49,medo
+3290,01:49,triste
+3290,01:49,medo
+3291,01:49,triste
+3291,01:49,surpreso
+3292,01:49,triste
+3292,01:49,surpreso
+3293,01:49,triste
+3293,01:49,surpreso
+3294,01:49,triste
+3294,01:49,surpreso
+3295,01:49,triste
+3295,01:49,surpreso
+3296,01:49,triste
+3296,01:49,surpreso
+3297,01:49,triste
+3297,01:49,surpreso
+3298,01:49,triste
+3298,01:49,feliz
+3299,01:49,triste
+3299,01:49,neutro
+3300,01:50,triste
+3300,01:50,surpreso
+3301,01:50,triste
+3302,01:50,triste
+3303,01:50,bravo
+3304,01:50,triste
+3305,01:50,triste
+3306,01:50,triste
+3307,01:50,triste
+3308,01:50,triste
+3309,01:50,bravo
+3310,01:50,bravo
+3311,01:50,triste
+3312,01:50,bravo
+3313,01:50,bravo
+3314,01:50,bravo
+3315,01:50,triste
+3316,01:50,triste
+3317,01:50,triste
+3318,01:50,triste
+3319,01:50,bravo
+3320,01:50,bravo
+3321,01:50,triste
+3322,01:50,triste
+3323,01:50,bravo
+3324,01:50,triste
+3325,01:50,bravo
+3326,01:50,bravo
