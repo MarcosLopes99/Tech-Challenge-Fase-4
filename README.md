@@ -3,8 +3,9 @@
 - Marcos Lopes da Silva Junior - RM353763
 - Ricardo Báfica Pontes - RM353866
 
-Link para o vídeo mostrando o projeto: 
-Link para o vídeo output:
+Link para o vídeo apresentando o projeto: https://youtu.be/VhX3xL4eP3k
+
+Link para o vídeo output: https://youtu.be/cCJbdU8aSME
 
 O problema:
 
